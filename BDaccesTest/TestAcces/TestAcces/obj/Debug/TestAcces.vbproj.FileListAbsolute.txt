@@ -1,0 +1,16 @@
+C:\Users\Notebook\Desktop\NN\BDaccesTest\TestAcces\TestAcces\bin\Debug\TestAcces.exe.config
+C:\Users\Notebook\Desktop\NN\BDaccesTest\TestAcces\TestAcces\bin\Debug\TestAcces.exe
+C:\Users\Notebook\Desktop\NN\BDaccesTest\TestAcces\TestAcces\bin\Debug\TestAcces.pdb
+C:\Users\Notebook\Desktop\NN\BDaccesTest\TestAcces\TestAcces\bin\Debug\TestAcces.xml
+C:\Users\Notebook\Desktop\NN\BDaccesTest\TestAcces\TestAcces\obj\Debug\TestAcces.vbprojAssemblyReference.cache
+C:\Users\Notebook\Desktop\NN\BDaccesTest\TestAcces\TestAcces\obj\Debug\TestAcces.Form1.resources
+C:\Users\Notebook\Desktop\NN\BDaccesTest\TestAcces\TestAcces\obj\Debug\TestAcces.Resources.resources
+C:\Users\Notebook\Desktop\NN\BDaccesTest\TestAcces\TestAcces\obj\Debug\TestAcces.vbproj.GenerateResource.cache
+C:\Users\Notebook\Desktop\NN\BDaccesTest\TestAcces\TestAcces\obj\Debug\TestAcces.vbproj.CoreCompileInputs.cache
+C:\Users\Notebook\Desktop\NN\BDaccesTest\TestAcces\TestAcces\obj\Debug\TestAcces.exe
+C:\Users\Notebook\Desktop\NN\BDaccesTest\TestAcces\TestAcces\obj\Debug\TestAcces.xml
+C:\Users\Notebook\Desktop\NN\BDaccesTest\TestAcces\TestAcces\obj\Debug\TestAcces.pdb
+C:\Users\Notebook\Desktop\NN\BDaccesTest\TestAcces\TestAcces\obj\Debug\TestAcces.Registrar.resources
+C:\Users\Notebook\Desktop\NN\BDaccesTest\TestAcces\TestAcces\obj\Debug\TestAcces.Editar.resources
+C:\Users\Notebook\Desktop\NN\BDaccesTest\TestAcces\TestAcces\obj\Debug\TestAcces.Inicio.resources
+C:\Users\Notebook\Desktop\NN\BDaccesTest\TestAcces\TestAcces\obj\Debug\TestAcces.Localidades.resources
